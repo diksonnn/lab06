@@ -1,0 +1,8 @@
+C:\Users\denyx\OneDrive\Desktop\Test\hierarchy\bin\Debug\hierarchy.exe.config
+C:\Users\denyx\OneDrive\Desktop\Test\hierarchy\bin\Debug\hierarchy.exe
+C:\Users\denyx\OneDrive\Desktop\Test\hierarchy\bin\Debug\hierarchy.pdb
+C:\Users\denyx\OneDrive\Desktop\Test\hierarchy\obj\Debug\hierarchy.csproj.AssemblyReference.cache
+C:\Users\denyx\OneDrive\Desktop\Test\hierarchy\obj\Debug\hierarchy.csproj.SuggestedBindingRedirects.cache
+C:\Users\denyx\OneDrive\Desktop\Test\hierarchy\obj\Debug\hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\denyx\OneDrive\Desktop\Test\hierarchy\obj\Debug\hierarchy.exe
+C:\Users\denyx\OneDrive\Desktop\Test\hierarchy\obj\Debug\hierarchy.pdb
